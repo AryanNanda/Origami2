@@ -56,6 +56,11 @@ style
         width:310px;
         font-family: fantasy;
     }
+a:link{
+       color: #ffffff
+}
+a:visited{
+       color: #000000
  p{
     background-color: #ffffff;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
